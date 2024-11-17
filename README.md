@@ -1,25 +1,25 @@
 # <center>About</center>
 <br>
-<center>Chungbuk National Univerisity</center>  
-<center>School of Information and Communication Engineering</center>  
-<center>2021.03 ~</center> 
+<center>Chungbuk National Univerisity</center><br>    
+<center>School of Information and Communication Engineering</center><br>    
+<center>2021.03 ~</center><br>   
 <br>
 <br>
 <br>
-<center>CBNU 직무잡아드림 동아리</center>
-<center>CORE</center>
-<center>2022.05 ~ 2023.12</center> 
+<center>CBNU 직무잡아드림 동아리</center><br>  
+<center>CORE</center><br>  
+<center>2022.05 ~ 2023.12</center><br>   
 <br>
 <br>
 <br>
-<center>NAVER CONNECT 소프트웨어야 놀자</center>
-<center>2022.05 ~ 2022.12</center>
+<center>NAVER CONNECT 소프트웨어야 놀자</center><br>  
+<center>2022.05 ~ 2022.12</center><br>  
 <br>
 <br>
 <br>
-<center>CJ Remote Internship</center>
-<center>Session1</center>
-<center>2024.05 ~ 2024.08</center>
+<center>CJ Remote Internship</center><br>
+<center>Session1</center><br>
+<center>2024.05 ~ 2024.08</center><br>
 <!--
 **randonik/Randomnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
